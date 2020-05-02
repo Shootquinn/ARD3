@@ -1,7 +1,7 @@
 # ARD3
-Autonomous Robotic Demonstrator for Deep Drilling
+Autonomous Robotic Demonstrator for Deep Drilling (ARD3)
 
-This project's main goal is to rapidly advance Mars deep ice drilling technology. In a nod to Honeybee and Planetary Society's Planetary Deep Drill project, the bore hole diameter is 64mm. A rover deployment utilizing both Planetary Deep Drill and the Autonomous Robotic Demonstrator for Deep Drilling (ARD3) is envisioned. 
+This project's main goal is to rapidly advance Mars deep ice drilling technology. In a nod to Honeybee and Planetary Society's Planetary Deep Drill project, the bore hole diameter is 64mm. 
 
 The ARD3 is designed to "drive" up and down the bore hole with flexible tracks that are press-fit or more accurately "squish-fit" against the bore wall, which will double as torque stabilizers and allow standard non-core drilling or core drilling to occur. Two sets of these tracks may be needed, current prototype only has 1 set. The drive system is housed in an "equipment module" which also provides the torque to the drill head. The equipment module will also provide sensors for borehole logging. Layered deposits are expected in the ice on Mars so this is very important. 
 
@@ -14,5 +14,3 @@ Propulsion is provided by a battery powered motor driven tank-tread system that 
 Drive system demo video: https://youtu.be/ql9-ZsvZzg0
 
 The Unlicense was used to dedicate this work to the public domain. 
-
-Stay tuned to the Mars Drilling Project by keeping an eye on my blog at http://www.quinnmorley.com/
