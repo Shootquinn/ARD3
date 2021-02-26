@@ -1,6 +1,8 @@
 # ARD3
 Autonomous Robotic Demonstrator for Deep Drilling (ARD3)
 
+This project has been selected for a NASA Innovative Advanced Studies (NIAC) grant award. Thanks to the NASA Science Mission Directorate for the opportunity. https://www.nasa.gov/directorates/spacetech/niac/2021_Phase_I/Autonomous_Robotic_Demonstrator_for_Deep_Drilling/
+
 This project's main goal is to rapidly advance Mars deep ice drilling technology. In a nod to Honeybee and Planetary Society's Planetary Deep Drill project, the bore hole diameter is 64mm. 
 
 The ARD3 is designed to "drive" up and down the bore hole with flexible tracks that are press-fit or more accurately "squish-fit" against the bore wall, which will double as torque stabilizers and allow standard non-core drilling or core drilling to occur. Two sets of these tracks may be needed, current prototype only has 1 set. The drive system is housed in an "equipment module" which also provides the torque to the drill head. The equipment module will also provide sensors for borehole logging. Layered deposits are expected in the ice on Mars so this is very important. 
