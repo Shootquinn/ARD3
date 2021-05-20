@@ -1,5 +1,6 @@
 # ARD3
-Autonomous Robotic Demonstrator for Deep Drilling (ARD3)
+## Autonomous Robotic Demonstrator for Deep Drilling (ARD3)
+### Note: This repo is sort of a dumping ground. Sorry, not sorry.
 
 This project has been selected for a NASA Innovative Advanced Studies (NIAC) grant award. Thanks to the NASA Science Mission Directorate for the opportunity. https://www.nasa.gov/directorates/spacetech/niac/2021_Phase_I/Autonomous_Robotic_Demonstrator_for_Deep_Drilling/
 
