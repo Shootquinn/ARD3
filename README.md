@@ -14,6 +14,8 @@ Several ARD3 units could be used to perform deep drilling work in separate bores
 
 Propulsion is provided by a battery powered motor driven tank-tread system that is unique to this application. A tread design is chosen which also acts as a gear interface to transfer drive power from one tread to the other, which also serves to sync their rotational speeds. These treads are based on the Gear Bearing by Thingiverse user Emmett, and are licensed separately. They are available on Thingiverse at https://www.thingiverse.com/thing:3610134
 
+Similarly, the spherical iris is released here. https://www.thingiverse.com/thing:4864404
+
 Drive system demo video: https://youtu.be/ql9-ZsvZzg0
 
 The Unlicense was used to dedicate this work to the public domain. 
